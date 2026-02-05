@@ -49,7 +49,7 @@ Soy un desarrollador en proceso con fuerte interés en **Data Science y análisi
 
 ## 📌 Proyectos destacados
 🔹 **Análisis y predicción con datasets reales**  
-- ⚽ [Predicción de resultados de la Liga MX](https://github.com/Espana.zip/liga-mx-predictions)
+- ⚽ [Predicción de resultados de la Liga MX](https://github.com/Espana-zip/LigaMx-predictions-)
 
 🔹 **Aplicación móvil con Flutter y Firebase**  
  
